@@ -40,8 +40,8 @@ module JB
   end #Path
 end #JB
 
-# Usage: rake post title="A Title" [date="2012-02-09"]
-desc "Begin a new post in #{CONFIG['posts']}"
+# Usage: rake post title="A Title" [date="2012-02-09"] [EDITOR='vim']
+desc "Begin a new post in #{CONFIG['posts']} and start editing."
 task :post do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
   title = ENV["title"] || "new-post"
@@ -68,6 +68,11 @@ task :post do
     post.puts "---"
     post.puts "{% include JB/setup %}"
   end
+
+  if ENV['EDITOR']
+    system "#{ENV['EDITOR']} #{filename}"
+  end
+  
 end # task :post
 
 # Usage: rake page name="about.html"
