@@ -10,7 +10,6 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Hiroshi Okada's blog
-tagline: toycode
 author :
   name : Hiroshi Okada
   email : okadahiroshi@yahoo.co.jp
