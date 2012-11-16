@@ -15,7 +15,7 @@ Windows マシンをスリープやシャットダウンせずに一時的にモ
 
 ### monitoroff.ps1
 
-{% highlight PowerShell %}
+{% highlight ps1 %}
 # Turn off the display.
 # Then, the display will be turned on if a key is pressed. 
 
