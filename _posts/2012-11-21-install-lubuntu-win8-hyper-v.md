@@ -3,7 +3,7 @@ layout: post
 title: "Windows 8 Pro の Hyper-V に lubuntu を入れてみました"
 description: ""
 category: 
-tags: ['lubuntu', 'Windows', 'Hyper-V']
+tags: ['Lubuntu', 'Windows', 'Hyper-V']
 ---
 {% include JB/setup %}
 

@@ -3,7 +3,7 @@ layout: post
 title: "Lubuntu の キーボードショートカット"
 description: ""
 category: 
-tags: []
+tags: [Lubuntu]
 ---
 {% include JB/setup %}
 
