@@ -3,7 +3,7 @@ layout: post
 title: "monitoroff.ps1"
 description: "ディスプレイの電源を切る PowerShell スクリプト"
 category: 
-tags: [Windows]
+tags: ['Windows', 'PowerShell']
 ---
 {% include JB/setup %}
 

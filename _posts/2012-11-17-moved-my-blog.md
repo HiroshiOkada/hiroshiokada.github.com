@@ -3,7 +3,7 @@ layout: post
 title: "ブロクを引越しました"
 description: ""
 category: 
-tags: ['About this blog']
+tags: ['About']
 ---
 {% include JB/setup %}
 
