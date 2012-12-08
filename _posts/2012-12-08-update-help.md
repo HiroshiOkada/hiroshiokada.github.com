@@ -23,9 +23,6 @@ Windows 8 の PowerShell で `Get-Help Get-Command` などとヘルプを見よ�
 そこで PowerShell を管理者として実行し太字のように入力しました。
 
 <pre style="color:white; background-color:darkblue;">
-Windows PowerShell
-Copyright (C) 2012 Microsoft Corporation. All rights reserved.
-
 PS C:\Windows\system32&gt; <span style="font-weight:900;">Update-Help -Force -UICulture en-US</span>
 PS C:\Windows\system32&gt; <span style="font-weight:900;">Update-Help -Force -UICulture ja-JP</span>
 </pre>
