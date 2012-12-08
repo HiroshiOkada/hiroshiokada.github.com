@@ -3,7 +3,7 @@ layout: post
 title: "Dell の XPS 12 を購入しました"
 description: ""
 category: 
-tags: ['XPS12', 'Windows']
+tags: ['XPS12', 'Windows8']
 ---
 {% include JB/setup %}
 
