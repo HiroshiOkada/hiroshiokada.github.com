@@ -9,4 +9,4 @@ tags: ['Blog', 'Hatena']
 
 気分を一新するため、はてな blog で記事を書くことにしました。
 
-[Okada Hiroshi の blog]http://okadahiroshi.hatenablog.com/
+[Okada Hiroshi の blog](http://okadahiroshi.hatenablog.com/)
